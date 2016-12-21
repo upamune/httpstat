@@ -1,0 +1,13 @@
+name: httpstat
+version: 0.1.0
+
+authors:
+  - upamune <jajkeqos@gmail.com>
+
+targets:
+  httpstat:
+    main: src/httpstat.cr
+
+crystal: 0.20.1
+
+license: MIT
