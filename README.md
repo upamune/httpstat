@@ -1,6 +1,6 @@
 # httpstat
 
-TODO: Write a description here
+![](https://raw.githubusercontent.com/upamune/httpstat/master/screenshot.png)
 
 ## Installation
 
@@ -8,11 +8,9 @@ TODO: Write installation instructions here
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+```
+$ httpstat https://reorx.com
+```
 
 ## Contributing
 
@@ -24,4 +22,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) upamune - creator, maintainer
+- [[upamune]](https://github.com/upamune) upamune - creator, maintainer
